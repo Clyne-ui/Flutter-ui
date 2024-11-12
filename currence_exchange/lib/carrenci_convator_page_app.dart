@@ -8,7 +8,7 @@ class CarrenciConvatorPageApp extends StatefulWidget {
 }
 
 class _CarrenciConvatorMaterialState extends State<CarrenciConvatorPageApp> {
-  double result = 0;
+  double result = 5000;
 
   final TextEditingController textEditingController = TextEditingController();
   @override
